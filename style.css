@@ -121,7 +121,7 @@ footer {
     background-clip: text;
 }
 
-.genderfluid{
+.genderfluid {
     background: linear-gradient(90deg, #ff31b0, #ffffff, #bd66ff, #707070, #7e82ff);
     -webkit-background-clip: text;
     padding: 12px;
@@ -129,7 +129,7 @@ footer {
     background-clip: text;
 }
 
-.xenogender{
+.xenogender {
     background: linear-gradient(90deg, #ff5e91, #ffff78, #bc63ff);
     -webkit-background-clip: text;
     padding: 12px;
